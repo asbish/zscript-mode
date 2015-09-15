@@ -29,7 +29,7 @@
 ;; just add the following code.
 ;; (custom-set-variables
 ;;  '(zscript-command-reference-URL
-;;    (browse-url-file-url "pass/to/file.html")))
+;;    (browse-url-file-url "path/to/file.html")))
 
 
 ;;; TODO: Do something for <zscriptinsert>
